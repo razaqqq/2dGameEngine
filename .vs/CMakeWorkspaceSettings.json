@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "2dgameengine\\lib\\glm"
+}

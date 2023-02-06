@@ -1,0 +1,21 @@
+﻿  glm.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\lib\glm\detail\glm.cpp(5,10): fatal error C1083: Cannot open include file: 'glm/gtx/dual_quaternion.hpp': No such file or directory
+  AssetManager.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\AssetManager.h(6,10): fatal error C1083: Cannot open include file: './SDL_ttf.h': No such file or directory
+  Collision.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Collision.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  Entity.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Constants.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  EntityManager.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Constants.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  FontManager.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Game.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  Game.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Constants.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  Main.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Constants.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  Map.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Game.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  TextureManager.cpp
+F:\CAREER_2\____Completed_Project\Game\C++, SDL, Lua (Game)\project\2dGameEngine\2dgameengine\2dGameEngine\src\Game.h(4,10): fatal error C1083: Cannot open include file: './SDL.h': No such file or directory
+  Generating Code...

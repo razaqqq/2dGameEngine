@@ -1,0 +1,39 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : "."
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/CAREER_2/____Completed_Project/Game/C++, SDL, Lua (Game)/project/2dGameEngine/2dgameengine/2dGameEngine/lib/glm/out/build/x64-Debug",
+		"source" : "F:/CAREER_2/____Completed_Project/Game/C++, SDL, Lua (Game)/project/2dGameEngine/2dgameengine/2dGameEngine/lib/glm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
